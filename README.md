@@ -45,8 +45,8 @@ I'm a Python Developer, improving my skills one <b>404</b> at a time.<br/>
 
 
 ## 𝗦𝘁𝗮𝘁𝘀
-![](https://github-readme-stats.vercel.app/api?username=berdibaevich&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=berdibaevich&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=berdibaevich&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=berdibaevich&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
